@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fastai-docs-gpt"
+  site-url: "https://enzokro.github.io/fastai-docs-gpt"
+  description: "GPT-powered access to the Fast.ai documentation and code"
+  repo-branch: main
+  repo-url: "https://github.com/enzokro/fastai-docs-gpt"
